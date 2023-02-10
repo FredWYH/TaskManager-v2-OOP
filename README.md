@@ -1,5 +1,7 @@
 # TaskManager-v2-OOP
 Task Manager upgrade from previous version with OOP focus
+In this project, the focus is the use lists or dictionaries and functions to extend the functionality of the previous capstone project.
+
 
 Modify the code of your previous project so that functions are used. 
 Adding functions to improve the modularity of the code. 
